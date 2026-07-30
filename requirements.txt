@@ -4,3 +4,17 @@ pandas
 matplotlib
 seaborn
 vaderSentiment
+beautifulsoup4
+lxml
+langdetect
+spacy
+keybert
+sumy
+rouge-score
+scikit-learn
+sentence-transformers
+nltk
+
+# after installing, also run:
+#   python -m spacy download en_core_web_sm
+#   python -c "import nltk; nltk.download('punkt_tab'); nltk.download('stopwords')"
